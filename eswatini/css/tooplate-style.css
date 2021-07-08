@@ -308,6 +308,7 @@
   }
 
   .navbar-default .navbar-brand {
+    padding-left: 25px;
     color: #393939;
     font-weight: 500;
   }
