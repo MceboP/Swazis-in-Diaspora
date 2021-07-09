@@ -304,7 +304,7 @@
     box-shadow: 0 2px 8px rgba(0,0,0,.075);
     border: none;
     margin-bottom: 0;
-    padding: 10px;
+    padding: 10px 10px 10px 60px;
   }
 
   .navbar-default .navbar-brand {
