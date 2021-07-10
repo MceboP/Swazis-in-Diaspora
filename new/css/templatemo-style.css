@@ -154,6 +154,13 @@
     padding: 25px 0;
   }
 
+  .logo{
+    width: 280px;
+    margin-left: -5px;
+    margin-top: -5px;
+    opacity: 0.8;
+  }
+
   .custom-navbar .navbar-brand {
     color: #ffffff;
     font-size: 25px;
@@ -166,12 +173,12 @@
   }
 
   .custom-navbar .navbar-nav.navbar-nav-first {
-    margin-left: 8em;
+    margin-left: 6em;
   }
 
   .custom-navbar .navbar-nav.navbar-right li a {
-    padding-right: 12px;
-    padding-left: 12px;
+    padding-right: 6px;
+    padding-left: 6px;
   }
 
   .custom-navbar .section-btn {
